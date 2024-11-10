@@ -1,6 +1,6 @@
 [project]
 name = "zuu"
-version = "3.0.0"
+version = "3.0.1"
 description = "Zack's Useful Utilities"
 authors = [
     { name = "ZackaryW", email = "gitzackw@gmail.com" }
@@ -24,6 +24,7 @@ dev-dependencies = [
     "toml>=0.10.2",
     "pytest>=8.3.3",
     "requests>=2.32.3",
+    "keyring>=25.5.0",
 ]
 
 [tool.hatch.metadata]
