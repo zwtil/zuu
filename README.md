@@ -1,3 +1,5 @@
+> # project migrated to https://github.com/zwtil/zuu2/tree/main/PYTHON_PKG/std
+
 # zuu
 Zack's Useful Utilities
 
